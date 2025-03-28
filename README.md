@@ -24,3 +24,5 @@
 
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats-zimos-projects-f7522fd3.vercel.app/api?username=Zimo2005&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimo2005&layout=compact)
