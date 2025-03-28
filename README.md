@@ -23,4 +23,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats-zimos-projects-f7522fd3.vercel.app/api?username=Zimo2005)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-zimos-projects-f7522fd3.vercel.app/api?username=Zimo2005&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
